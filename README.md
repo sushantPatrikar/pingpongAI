@@ -23,7 +23,7 @@ Every bar looks in 5 direction:
 </p>
 
 <p align="center">
-  <img src = "./genetic screenshots/straight.png" height=300 width=300>
+  <img src = "./genetic screenshots/Straight.png" height=300 width=300>
   
   It's distance from the ball in straight direction, relative to it's positon, and ball's velocity(If it is present overhead)
 </p>
@@ -46,3 +46,15 @@ Initial generation looks like this
 <img src = "./genetic gifs/gen2.gif" height=400 width=600>
 </p>
 
+Initially, the bars have no clue, these are just random decisions i.e Move Right or Move Left
+
+After some generations we see some improvements:
+<p align="center">
+<img src = "./genetic gifs/gen6.gif" height=400 width=600>
+</p>
+By this generation the bars start taking some sensible decisions
+
+As the generations move on, the AI becomes master in playing this game
+<p align="center">
+<img src = "./genetic gifs/gen20.gif" height=400 width=600>
+</p>
