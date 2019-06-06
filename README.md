@@ -1,6 +1,11 @@
 <h1 align="center">pingpongAI</h1>
 
 <p align="center">
+<img src = "https://user-images.githubusercontent.com/40419750/59024126-d9996680-886e-11e9-8af9-1084288699f2.png" width=100 height=100>
+</p>
+<p>Ping pong game, but AI plays it</p>
+
+<p align="center">
 <img src = "./genetic gifs/gen20.gif" height=400 width=600>
 </p>
 
