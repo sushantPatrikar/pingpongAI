@@ -54,7 +54,7 @@ After some generations we see some improvements:
 </p>
 By this generation the bars start taking some sensible decisions
 
-
+<br>
 As the generations go on, the AI becomes master in playing this game
 <p align="center">
 <img src = "./genetic gifs/gen20.gif" height=400 width=600>
