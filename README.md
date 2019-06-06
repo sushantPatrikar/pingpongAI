@@ -1,4 +1,5 @@
 # pingpongAI
 Ping Pong game, but AI plays it
-
-<img src = "./genetic gifs/gen20.gif" height=500 width=600>
+<p align="center">
+<img src = "./genetic gifs/gen20.gif" height=400 width=600>
+</p>
