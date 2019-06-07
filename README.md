@@ -66,3 +66,5 @@ By this generation the bars start taking some sensible decisions
 <p align="center">
 <img src = "./genetic gifs/gen20.gif" height=400 width=600>
 </p>
+
+For human playable version of this game, Click <a href="https://github.com/sushantPatrikar/pingpong">here</a>
