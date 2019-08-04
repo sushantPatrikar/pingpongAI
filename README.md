@@ -3,7 +3,15 @@
 </p>
 
 <h1 align="center">pingpongAI</h1>
-
+<div align="center">
+<img src="https://img.shields.io/github/license/sushantPatrikar/pingpongAI">	
+<img src="https://www.codefactor.io/repository/github/sushantpatrikar/pingpongai/badge/master"/>
+<img src="https://img.shields.io/github/issues-pr/sushantPatrikar/pingpongAI">
+<img src="https://img.shields.io/github/stars/sushantPatrikar/pingpongAI">
+<img src="https://img.shields.io/github/forks/sushantPatrikar/pingpongAI">
+<img src="https://img.shields.io/github/issues/sushantPatrikar/pingpongAI">
+<img src="https://img.shields.io/badge/PRs-welcome-informational">
+</div>
 
 <h4 align="center">Ping Pong game, but AI plays it</h4>
 <div></div>
@@ -66,5 +74,10 @@ By this generation the bars start taking some sensible decisions
 <p align="center">
 <img src = "./genetic gifs/gen20.gif" height=400 width=600>
 </p>
+<p>For detailed explanation, you can visit my <a href="https://sushantpatrikar.github.io/flappybirdAI.html"> website</a>.</p>
 
-For human playable version of this game, Click <a href="https://github.com/sushantPatrikar/pingpong">here</a>
+
+<p>For human playable version of this game, Click <a href="https://github.com/sushantPatrikar/pingpong">here</a></p>
+
+<h2>Future Scope</h2>
+<p>Right now, the algorithm used is NEAT. Some other Reinforcement Learning algorithm, such as Deep Q-Learning can be applied to it. If you have any other ideas, Pull Requests are welcomed!</p>
