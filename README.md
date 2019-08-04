@@ -14,7 +14,7 @@
 </div>
 
 <h4 align="center">Ping Pong game, but AI plays it</h4>
-<div></div>
+<hr>
 <p align="center">
 <img src = "./genetic gifs/gen20.gif" height=400 width=600>
 </p>
